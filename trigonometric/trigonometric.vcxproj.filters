@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{1f0b7d52-866f-454f-96e2-b4b6086bf25b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F_Trig.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreTypeDef.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="trigonometric.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="trigonometric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F_Trig.cpp">
+      <Filter>Lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

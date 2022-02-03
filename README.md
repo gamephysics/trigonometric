@@ -25,8 +25,7 @@
 
 ## Youtube
 
-https://youtu.be/0aml9IwLUgE
-
+[![Video Label](https://img.youtube.com/vi/0aml9IwLUgE/0.jpg)](https://youtu.be/0aml9IwLUgE)
 
 ## Compile
 

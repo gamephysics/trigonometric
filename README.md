@@ -20,7 +20,7 @@ Floating Point 연산은 동일한것으로 판단되어지나
 
 ## Youtube
 
-https://www.youtube.com/??????
+https://youtu.be/0aml9IwLUgE
 
 
 ## Compile
